@@ -8,6 +8,8 @@ public class basic {
 		System.out.println("hello world123");
 		System.out.println("Hello 2345");
 		
+		System.out.println("Welcome");
+		
 
 	}
 
