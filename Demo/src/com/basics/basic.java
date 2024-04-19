@@ -7,6 +7,8 @@ public class basic {
 		System.out.println("hello world");
 		System.out.println("hello world123");
 		
+		System.out.println("Welcome");
+		
 
 	}
 
